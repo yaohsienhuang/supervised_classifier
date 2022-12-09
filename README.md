@@ -1,5 +1,8 @@
 # supervised_classifier
-* 收錄常用的個人常用的 Supervised learning，並建立成方法便於後續應用，若需要使用更多的演算法可參考網站：
+* 收錄常用的個人常用的 Supervised learning，並建立成方法便於後續應用
+> kNN, decision_tree, SVM, SGDClassifier 
+
+* 若需要使用更多的演算法可參考網站：
 > ref: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
 
 ## 使用方式：
